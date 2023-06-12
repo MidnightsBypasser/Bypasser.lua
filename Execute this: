@@ -10,4 +10,5 @@
 ╱╱╱╱╱╱╱╱╱╱╱╱╱╰━━╯╱╱╱╱╱╱╱╱╱╱╱╱╱╰━━╯╰╯
 Welcome to Midnight's Bypasser.
 ]]--
+
 loadstring(game:HttpGet("https://raw.githubusercontent.com/MidnightsBypasser/Bypasser.lua/main/Bypass", true))()
